@@ -21,7 +21,7 @@
 # 	print(a[num])	
 
 
-
+anythinh i ahe chaged 
 other_cities = ["Strasbourg", "Freiburg", "Stuttgart", 
                 "Vienna / Wien", "Hannover", "Berlin", 
                 "Zurich"]
